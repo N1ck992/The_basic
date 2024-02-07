@@ -136,7 +136,4 @@ dell <filename>
 
 </details>
 
-<<<<<<< HEAD
-=======
-1
->>>>>>> test
+1111
